@@ -1,6 +1,6 @@
 ## Hi There, I'm Anjola✨✨
 
-💕A Bioinformatics major at Fisk University<br/>
+💕A Comp Sci & Bioinformatics major at Fisk University<br/>
 🔭I create passion projects centred around solving real-world problems in technology and biology<br/>
 🥰Sometimes I love to integrate those two worlds!<br/>
 
